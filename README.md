@@ -1,4 +1,4 @@
-# Color-Detection
+# Color-Detection by Dharini Sharma
 
 About: 
 =======
